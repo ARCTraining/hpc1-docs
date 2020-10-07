@@ -1,4 +1,4 @@
-# A template jupyter book documentation repository
+# A HPC1 Documentation repository
 
 This is a template repository that can be used when generating documentation using [Jupyter-books](https://github.com/executablebooks/jupyter-book) and hosting the site via GitHub pages.
 
@@ -7,7 +7,7 @@ This is a template repository that can be used when generating documentation usi
 You can get this project working locally by using the environment.yml file to create a conda environment that contains all the dependencies required to get started.
 
 ```{bash}
-$ git clone https://github.com/ARCTraining/template-jb-docs.git
+$ git clone https://github.com/ARCTraining/hpc1-docs.git
 
 $ conda env create -f environment.yml
 ```
